@@ -1,0 +1,11 @@
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\bin\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.deps.json
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\bin\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.runtimeconfig.json
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\bin\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.runtimeconfig.dev.json
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\bin\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.dll
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\bin\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.pdb
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\obj\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.csprojAssemblyReference.cache
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\obj\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.csproj.CoreCompileInputs.cache
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\obj\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.AssemblyInfoInputs.cache
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\obj\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.AssemblyInfo.cs
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\obj\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.dll
+C:\Users\aniket.dhume\source\repos\SampleOpenIDDemo\SampleApplication.IDP\obj\Debug\netcoreapp2.0\SampleOpenIDDemo.IDP.pdb
