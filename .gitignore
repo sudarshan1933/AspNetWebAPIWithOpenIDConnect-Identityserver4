@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AngularCore/obj/Release/netcoreapp2.0
+/.vs
+/packages
+/SampleApplication.IDP/obj/
+/SampleApplication.IDP/bin/
+/AngularCore/node_modules
+/AngularCore/obj/*
+/AngularCore/bin/*
+/SampleOpenIDDemo.API/bin/
+/SampleOpenIDDemo.API/obj/
