@@ -8,7 +8,7 @@
 /SampleApplication.IDP/obj/
 /SampleApplication.IDP/bin/
 /AngularCore/node_modules
-/AngularCore/obj/
-/AngularCore/bin/
+/AngularCore/obj/*
+/AngularCore/bin/*
 /SampleOpenIDDemo.API/bin/
 /SampleOpenIDDemo.API/obj/
